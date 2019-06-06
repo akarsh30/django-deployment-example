@@ -1,0 +1,3 @@
+after templates config
+create views.py
+configure learning_templates/urls.py
